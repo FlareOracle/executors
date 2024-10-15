@@ -69,7 +69,7 @@
       "name": "Flare Oracle Auto-Claimer",
       "description": "An automatic claiming solution by Flare Oracle",
       "website": "https://flareoracle.io",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/executors/master/assets/0x1d772d3ad13ca1912a7b0ce2bca3b071969b2c87.png",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/executors/master/assets/0x3796021ced20c6581c8d4655506a9e587de88d8a.png",
       "features": {
         "ftsoRewards": true,
         "flareDrops": false,
